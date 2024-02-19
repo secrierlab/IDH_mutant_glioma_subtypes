@@ -8,7 +8,7 @@
 
 -----
 
-## Folder structure
+## <ins>Folder structure:</ins>
 
 ### methylation_scripts
 Scripts developed for the analysis of methylation data from mouse and in TCGA and Turkan et al.
