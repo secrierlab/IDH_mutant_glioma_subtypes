@@ -1,6 +1,7 @@
 # IDH mutant glioma subtypes
 
 ### Authors: Guidantonio Malagoli Tagliazucchi, Maria Secrier
+#
 
  This repository contains code developed for the analysis presented in Shroff et al.
 
@@ -26,3 +27,6 @@ Deconvolution of the tumour microenvironment cell populations in bulk murine and
 ### T_cell_exclusion
 Analysis of T cell exclusion in bulk sequenced TCGA subgroups.
 
+
+# Copyright
+This code is free and is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY. See the GNU General Public License for more details.
